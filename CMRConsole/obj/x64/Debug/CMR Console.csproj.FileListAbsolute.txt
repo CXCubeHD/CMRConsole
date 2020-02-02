@@ -1,0 +1,33 @@
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\PInvoke.Windows.Core.dll
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\System.Buffers.dll
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\System.Memory.dll
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\System.Reflection.Metadata.dll
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\Xamarin.Forms.Core.dll
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\Xamarin.Forms.Platform.dll
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\PInvoke.Windows.Core.xml
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\System.Buffers.xml
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\System.Memory.xml
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\System.Reflection.Metadata.xml
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\Xamarin.Forms.Core.pdb
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\Xamarin.Forms.Core.xml
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\lukax\source\repos\CMR Console\obj\x64\Debug\XamlC.stamp
+C:\Users\lukax\source\repos\CMR Console\obj\x64\Debug\CMR Console.csproj.CopyComplete
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\CMRConsole.exe.config
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\CMRConsole.exe
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\CMRConsole.pdb
+C:\Users\lukax\source\repos\CMR Console\obj\x64\Debug\CMRConsole.exe
+C:\Users\lukax\source\repos\CMR Console\obj\x64\Debug\CMRConsole.pdb
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\lukax\source\repos\CMR Console\bin\x64\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\lukax\source\repos\CMR Console\obj\x64\Debug\CMR Console.csprojAssemblyReference.cache

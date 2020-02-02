@@ -1,0 +1,29 @@
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\CMR Console.exe.config
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\CMR Console.exe
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\CMR Console.pdb
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\System.Buffers.dll
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\System.Collections.Immutable.dll
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\System.Memory.dll
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\System.Buffers.xml
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\System.Collections.Immutable.xml
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\System.Memory.xml
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lukax\source\repos\CMR Console\obj\Debug\CMR Console.csprojAssemblyReference.cache
+C:\Users\lukax\source\repos\CMR Console\obj\Debug\CMR Console.csproj.CopyComplete
+C:\Users\lukax\source\repos\CMR Console\obj\Debug\CMR Console.exe
+C:\Users\lukax\source\repos\CMR Console\obj\Debug\CMR Console.pdb
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\lukax\source\repos\CMR Console\obj\Debug\XamlC.stamp
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\lukax\source\repos\CMR Console\bin\Debug\PInvoke.Windows.Core.xml
